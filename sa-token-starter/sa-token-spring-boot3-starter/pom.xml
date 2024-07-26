@@ -17,7 +17,7 @@
 	<description>springboot3 integrate sa-token</description>
 
     <properties>
-		<springboot3.version>3.0.1</springboot3.version>
+		<springboot3.version>3.1.0</springboot3.version>
     </properties>
     
 	<dependencies>
