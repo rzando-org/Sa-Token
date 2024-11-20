@@ -17,7 +17,7 @@
 	<description>springboot3 reactor integrate sa-token</description>
 	
     <properties>
-		<springboot3.version>3.0.1</springboot3.version>
+		<springboot3.version>3.2.11</springboot3.version>
     </properties>
 	
 	<dependencies>
@@ -89,7 +89,7 @@
 		    <dependency>
 		    	<groupId>org.springframework</groupId>
 				<artifactId>spring-web</artifactId>
-				<version>6.0.0</version>
+				<version>6.1.14</version>
 		    </dependency>
 		    
 		    <dependency>
