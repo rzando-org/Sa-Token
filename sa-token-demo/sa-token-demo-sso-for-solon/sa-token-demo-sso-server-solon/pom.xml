@@ -17,7 +17,7 @@
 	<!-- 定义 Sa-Token 版本号 -->
 	<properties>
 		<sa-token.version>1.38.0</sa-token.version>
-		<solon.version>2.7.0</solon.version>
+		<solon.version>2.7.4</solon.version>
 	</properties>
 
 	<dependencies>
